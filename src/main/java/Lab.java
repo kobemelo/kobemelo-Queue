@@ -69,7 +69,7 @@ public class Lab {
      * Remove an item from a queue, and return the removed item.
      * (The method used to remove items from queues also returns the item.)
      * @param queue a Queue<String> object.
-     * @return the next String due to be removed (polled) from the Queue<String> (the oldest item in the queue.)
+     * @return the next tring due to e removed (polled) from the Queue<String> (the oldest item in the queue.)
      */
     public String removeFromStartOfQueue(Queue<String> queue){
 
